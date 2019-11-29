@@ -50,6 +50,7 @@ public class SendEmail {
         catch (MessagingException exp)
         {
            // isSend=false;
+
         }
 
     }
